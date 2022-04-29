@@ -1,0 +1,63 @@
+.rojo{
+    color:blue ;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Pantallaizquierda{
+    width: 50%;
+    background-color: rgb(250, 252, 146);
+    height: 100vh;
+}
+.Pantallaizquierda h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.Pantallaizquierda p {
+    padding: 12px;
+    text-align: justify;
+    line-height: 23px;
+}
+
+.Pantallaizquierda a {
+    padding: 20px;
+    border: 2px dotted;
+    border-radius: 13px;
+    background-color: rgb(164, 243, 111);
+}
+
+.enlace{
+    text-align: center;
+}
+
+
+.PantallaDerecha {
+   
+}
+
+.PantallaDerecha {
+    width: 50%;
+    height: 50vh;
+    background-image: url(../images/imagen\ 1.jpeg);
+    background-size: cover;
+    background-position: 0;
+
+}
+
+.Pantallaprincipal{
+    display: flex;
+}
+
+h1 {
+    transform: scale(1.0);
+    color: rgb(228, 231, 61);
+    text-shadow: 4px 3px brown;
+    
+}
+
+

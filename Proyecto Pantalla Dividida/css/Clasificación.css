@@ -1,0 +1,20 @@
+body {
+  background-image: url(/images/imagen\ animada.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.enlace2 {
+    background-position: bottom 50px right 100px;
+    font-size: 20px;
+}
+
+.dos {
+    font-size: 50px;
+    background-position: bottom 50px right 100px;
+}
+
+.cuadro1{
+    background-position: right 50px;
+}
